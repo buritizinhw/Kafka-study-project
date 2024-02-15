@@ -1,5 +1,6 @@
 # Kafka-study-project
-Objetivos desse repositório de estudo:
+
+ Objetivos desse repositório de estudo:
  - Utilizar o Apache Server para criar um  servidor
  - Analisar o log
  - Criar Topic no Kafka
@@ -7,4 +8,3 @@ Objetivos desse repositório de estudo:
  - Criar a aplicação
  - Rodar a aplicação
  - Testar
- - 
